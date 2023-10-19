@@ -1,4 +1,4 @@
-# IN265 - Event-Driven Architecture with SAP Integration Suite, Advanced Event Mesh
+# IN269 - Event-Driven Architecture with SAP Integration Suite, Advanced Event Mesh
 
 ![Pic 1](/./images/IN265-1.jpeg)
 
@@ -55,15 +55,15 @@ SAP Integration Suite, advanced event mesh
 
 - [Exercise 1 - Explore SAP S/4HANA Integration Suite, advanced event mesh](exercises/ex1/)
 
-    - [Exercise 1.1 - Log into Advanced Event Mesh and Explore it](https://github.com/SAP-samples/teched2023-IN265/tree/main/exercises/ex1#exercise-11---log-into-advanced-event-mesh-and-explore-it)
-    - [Exercise 1.2 - Create a Queue in Advanced Event Mesh ](https://github.com/SAP-samples/teched2023-IN265/tree/main/exercises/ex1#exercise-12---create-a-queue-in-advanced-event-mesh)
-    - [Exercise 1.3 - Create a Subscription in Advanced Event Mesh](https://github.com/SAP-samples/teched2023-IN265/tree/main/exercises/ex1#exercise-13---create-a-queue-subscription-in-advanced-event-mesh)
-    - [Exercise 1.4 - Send an event from the Try Me! Tool to your Topic](https://github.com/SAP-samples/teched2023-IN265/tree/main/exercises/ex1#exercise-14---send-an-event-from-the-try-me-tool-to-your-topic)
+    - [Exercise 1.1 - Log into Advanced Event Mesh and Explore it](https://github.com/SAP-samples/teched2023-IN269/tree/main/exercises/ex1#exercise-11---log-into-advanced-event-mesh-and-explore-it)
+    - [Exercise 1.2 - Create a Queue in Advanced Event Mesh ](https://github.com/SAP-samples/teched2023-IN269/tree/main/exercises/ex1#exercise-12---create-a-queue-in-advanced-event-mesh)
+    - [Exercise 1.3 - Create a Subscription in Advanced Event Mesh](https://github.com/SAP-samples/teched2023-IN269/tree/main/exercises/ex1#exercise-13---create-a-queue-subscription-in-advanced-event-mesh)
+    - [Exercise 1.4 - Send an event from the Try Me! Tool to your Topic](https://github.com/SAP-samples/teched2023-IN269/tree/main/exercises/ex1#exercise-14---send-an-event-from-the-try-me-tool-to-your-topic)
 
 - [Exercise 2 - Topic Hierarchies](exercises/ex2/)
 
-    - [Exercise 2.1 - Learn about Topic Hierarchies and Wildcards](https://github.com/SAP-samples/teched2023-IN265/blob/main/exercises/ex2/README.md#exercise-21-learn-about-topic-hierarchies-and-wildcards)
-    - [Exercise 2.2 - Practice Topic Hierarchies and Wildcards using Try Me !](https://github.com/SAP-samples/teched2023-IN265/blob/main/exercises/ex2/README.md#exercise-22-practice-topic-hierarchies-and-wildcards-using-try-me----animal-edition)   
+    - [Exercise 2.1 - Learn about Topic Hierarchies and Wildcards](https://github.com/SAP-samples/teched2023-IN269/blob/main/exercises/ex2/README.md#exercise-21-learn-about-topic-hierarchies-and-wildcards)
+    - [Exercise 2.2 - Practice Topic Hierarchies and Wildcards using Try Me !](https://github.com/SAP-samples/teched2023-IN269/blob/main/exercises/ex2/README.md#exercise-22-practice-topic-hierarchies-and-wildcards-using-try-me----animal-edition)   
 
 - [Exercise 3 - Persistent and Non-Persistent Quality of Service](exercises/ex3/)
 
@@ -75,9 +75,9 @@ SAP Integration Suite, advanced event mesh
 
 - [Exercise 5 - Event-Driven in Action and Sample Architecture](exercises/ex5/)
 
-    - [Exercise 5.1 - A Distributed Smartphone Based Game](https://github.com/SAP-samples/teched2023-IN265/blob/main/exercises/ex5/README.md#exercise-51---a-distributed-smartphone-based-game)
-    - [Exercise 5.2 - How to Build this Game using Advanced Event Mesh](https://github.com/SAP-samples/teched2023-IN265/blob/main/exercises/ex5/README.md#exercise-52-how-to-build-this-game-using-advanced-event-mesh)
-    - [Exercise 5.3 - Let's play!](https://github.com/SAP-samples/teched2023-IN265/blob/main/exercises/ex5/README.md#exercise-53---lets-play)
+    - [Exercise 5.1 - A Distributed Smartphone Based Game](https://github.com/SAP-samples/teched2023-IN269/blob/main/exercises/ex5/README.md#exercise-51---a-distributed-smartphone-based-game)
+    - [Exercise 5.2 - How to Build this Game using Advanced Event Mesh](https://github.com/SAP-samples/teched2023-IN269/blob/main/exercises/ex5/README.md#exercise-52-how-to-build-this-game-using-advanced-event-mesh)
+    - [Exercise 5.3 - Let's play!](https://github.com/SAP-samples/teched2023-IN269/blob/main/exercises/ex5/README.md#exercise-53---lets-play)
       
 ## User Data and Password 
 
