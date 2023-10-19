@@ -1,26 +1,19 @@
-# Level 1 Heading
+# Getting Started
 
-In this exercise, you will...
+Before you start with the actual tutorial, prepare yourself by having the below information ready.
 
-## Level 2 Heading
+## Participant Number
 
-After completing these steps you will have....
+When you run through the exercise steps, you need to ensure that you use your participant number that runs from 01 - 40.
 
-1.	Click here.
-<br>![](/exercises/ex0/images/00_00_0010.png)
+Ensure you know the right number and use it. You can find the participant number on your table.
 
-2.	Insert this code.
-``` abap
- DATA(params) = request->get_form_fields(  ).
- READ TABLE params REFERENCE INTO DATA(param) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
-```
+## Password
 
+The password will be provided by the workshop moderators.
+  
 ## Summary
 
-Now that you have ... 
-Continue to - [Exercise 1 - Exercise 1 Description](../ex1/README.md)
+You have now everything you need to get started.
+
+Please continue with [Exercise 1](../ex1/README.md)
