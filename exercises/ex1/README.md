@@ -150,9 +150,8 @@ You have sent a message to a topic, and via the subscription this message has be
 
 ![Pic 23](../../images/ex1-23.png)  
 
-> Note: You have used the Try Me! tool on a single broker. If you want to go for an extra mile: you can try publishing on one broker, and consuming on another brokers. For that just go to another broker in a different window and use the subscriber of the Try Me! tool on this broker.
+> Note: You have used the Try Me! tool on a single broker. If you want to go for an extra mile: you can try publishing on one broker, and consuming on another broker. For that just go to another broker in a different window and use the subscriber of the Try Me! tool on this broker. The steps are the same, just that now you would be publishing on one broker and consuming on another broker in your mesh.
 >
-
 
 ## Summary
 
