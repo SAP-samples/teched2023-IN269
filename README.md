@@ -37,7 +37,6 @@ SAP Integration Suite, advanced event mesh features touched, some just shortly, 
 - SAP Integration Suite, advanced event mesh queues
 - SAP Integration Suite, advanced event mesh Cluster Manager
 - SAP Integration Suite, advanced event mesh Mesh Manager
-- SAP Integration Suite, advanced event mesh Event Designer and Event Management
 - SAP Integration Suite, advanced event mesh Try Me!
 
 ## Requirements
