@@ -150,6 +150,10 @@ You have sent a message to a topic, and via the subscription this message has be
 
 ![Pic 23](../../images/ex1-23.png)  
 
+> Note: You have used the Try Me! tool on a single broker. If you want to go for an extra mile: you can try publishing on one broker, and consuming on another brokers. For that just go to another broker in a different window and use the subscriber of the Try Me! tool on this broker.
+>
+
+
 ## Summary
 
 You have now created a queue in AEM and have subscribed to events via a topic. You have sent events to this topic using the Try me! tool.
