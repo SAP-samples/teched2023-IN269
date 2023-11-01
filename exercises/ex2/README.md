@@ -68,7 +68,7 @@ Now try out different combinations of publishing to a topic and listening to a t
 > where you replace XXX with your number 
 > 
 
-4. Register the consumer to listen to the Zebra topic - we just want to learn about Zebras getting born
+4. Register the consumer to listen to the Zebra topic - we just want to learn about Zebras being born
 
 For this subscribe the consumer to the topic animals/vertebrates/warm-blooded/mammals/zebra
 
