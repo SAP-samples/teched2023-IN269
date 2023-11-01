@@ -1,4 +1,4 @@
-# IN265 - Event-Driven Architecture with SAP Integration Suite, Advanced Event Mesh
+# IN269 - Event-Driven Architecture with SAP Integration Suite, Advanced Event Mesh
 
 ![Pic 1](images/IN265-1.jpeg)
 
